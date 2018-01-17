@@ -14,7 +14,7 @@ const Login = ({}) => (
   <div className="loginScreen">
     <AppBar
       className="fluid"
-      title='Welcome To The Poke Center'
+      title='The Pokemon Center'
       style={style.barstyle}
     />
 
